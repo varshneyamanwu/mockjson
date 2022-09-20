@@ -1,16 +1,16 @@
 {
-  "posts": [
+  "users": [
     {
-      "id": 1,
-      "title": "Post 1"
+      "username": "Aman",
+      "email": "varshneyaman1999@gmail.com",
+      "password": "AV@2022#",
+      "id": 1
     },
     {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
+      "username": "Kapil",
+      "email": "kapil@gmail.com",
+      "password": "Kv@1947#",
+      "id": 2
     }
   ]
 }
